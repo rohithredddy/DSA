@@ -10,6 +10,8 @@ class ReverseArray2pointer {
             a[i] = sc.nextInt();
         }
         int temp; 
+        int start=0;
+        int end=a.length-1;
         while (start < end) 
         { 
             temp = arr[start]; 
@@ -18,7 +20,7 @@ class ReverseArray2pointer {
             start++; 
             end--; 
         } 
-        for(i=0;i<a.length;i++)
+        for(int i=0;i<a.length;i++)
           System.out.print(a[i]+" ");
     }
 }
