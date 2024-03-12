@@ -1,2 +1,2 @@
-# dsa
-i am learning dsa 
+# Data Structures And Algorithms
+i am learning dsa with python  
