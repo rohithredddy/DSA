@@ -4,7 +4,7 @@ Example 1:
 
 Input: 200
 Output: 2
-Explanation: By reversing the digts of 
+Explanation: By reversing the digts of
 number, number will change into 2.'''
 
 def reverse_digit(n):
