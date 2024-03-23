@@ -8,7 +8,7 @@ def RevereseArrayRecursion(l,r):
 RevereseArrayRecursion(0,len(a)-1)
 print(a)
 
-# one pointer approach 
+# one pointer approach  
 
 a=[1,2,3,4,5]
 def RevereseArrayRecursion1(i):
