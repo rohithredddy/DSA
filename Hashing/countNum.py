@@ -9,5 +9,5 @@ arr=[10,20,30,5,4,7,5,8,6,5,9,8]
 
 
 # counting a number that appears how many times in array
-
+# with out Hashing
 
